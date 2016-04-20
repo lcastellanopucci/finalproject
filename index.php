@@ -8,6 +8,8 @@
     </head>
     
     <body>
-        <h1>please work</h1>
+        <?php
+            include 'nav.php';
+        ?>
     </body>
 </html>
